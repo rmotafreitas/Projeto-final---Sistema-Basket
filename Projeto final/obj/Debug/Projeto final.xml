@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Projeto final
+</name>
+</assembly>
+<members>
+<member name="T:Projeto_final.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources._78_787775_recycle_bin_flat_icon_with_shadow_recycle_bin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources._78_787775_recycle_bin_flat_icon_with_shadow_recycle_bin1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources._78_787775_recycle_bin_flat_icon_with_shadow_recycle_bin2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources._78_787775_recycle_bin_flat_icon_with_shadow_recycle_bin3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources._78_787775_recycle_bin_flat_icon_with_shadow_recycle_bin4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources.cartoon_basketball_player_png_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources.circle_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources.circle_16__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources.circle_16__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources.circle_16__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_final.My.Resources.Resources.Custom_Icon_Design_Flatastic_4_Close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

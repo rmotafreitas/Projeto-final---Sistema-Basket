@@ -1,0 +1,48 @@
+C:\Users\rmota\source\repos\Projeto final\Projeto final\bin\Debug\Projeto final.exe.config
+C:\Users\rmota\source\repos\Projeto final\Projeto final\bin\Debug\Projeto final.exe
+C:\Users\rmota\source\repos\Projeto final\Projeto final\bin\Debug\Projeto final.pdb
+C:\Users\rmota\source\repos\Projeto final\Projeto final\bin\Debug\Projeto final.xml
+C:\Users\rmota\source\repos\Projeto final\Projeto final\obj\Debug\Projeto final.vbprojAssemblyReference.cache
+C:\Users\rmota\source\repos\Projeto final\Projeto final\obj\Debug\Projeto_final.Form.resources
+C:\Users\rmota\source\repos\Projeto final\Projeto final\obj\Debug\Projeto_final.Resources.resources
+C:\Users\rmota\source\repos\Projeto final\Projeto final\obj\Debug\Projeto final.vbproj.GenerateResource.cache
+C:\Users\rmota\source\repos\Projeto final\Projeto final\obj\Debug\Projeto final.vbproj.CoreCompileInputs.cache
+C:\Users\rmota\source\repos\Projeto final\Projeto final\obj\Debug\Projeto final.exe
+C:\Users\rmota\source\repos\Projeto final\Projeto final\obj\Debug\Projeto final.xml
+C:\Users\rmota\source\repos\Projeto final\Projeto final\obj\Debug\Projeto final.pdb
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\bin\Debug\Projeto final.exe.config
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\bin\Debug\Projeto final.exe
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\bin\Debug\Projeto final.pdb
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\bin\Debug\Projeto final.xml
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\obj\Debug\Projeto final.vbprojAssemblyReference.cache
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\obj\Debug\Projeto_final.Form.resources
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\obj\Debug\Projeto_final.Resources.resources
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\obj\Debug\Projeto final.vbproj.GenerateResource.cache
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\obj\Debug\Projeto final.vbproj.CoreCompileInputs.cache
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\obj\Debug\Projeto final.exe
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\obj\Debug\Projeto final.xml
+C:\Users\rmota\source\repos\Projeto final - Testes\Projeto final\obj\Debug\Projeto final.pdb
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\bin\Debug\Projeto final.exe.config
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\bin\Debug\Projeto final.exe
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\bin\Debug\Projeto final.pdb
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\bin\Debug\Projeto final.xml
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\obj\Debug\Projeto final.vbprojAssemblyReference.cache
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\obj\Debug\Projeto_final.Form.resources
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\obj\Debug\Projeto_final.Resources.resources
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\obj\Debug\Projeto final.vbproj.GenerateResource.cache
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\obj\Debug\Projeto final.vbproj.CoreCompileInputs.cache
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\obj\Debug\Projeto final.exe
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\obj\Debug\Projeto final.xml
+C:\Users\rmota\source\repos\Projeto final - Testes  cores\Projeto final\obj\Debug\Projeto final.pdb
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\bin\Debug\Projeto final.exe.config
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\bin\Debug\Projeto final.exe
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\bin\Debug\Projeto final.pdb
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\bin\Debug\Projeto final.xml
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\obj\Debug\Projeto final.vbprojAssemblyReference.cache
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\obj\Debug\Projeto_final.Form.resources
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\obj\Debug\Projeto_final.Resources.resources
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\obj\Debug\Projeto final.vbproj.GenerateResource.cache
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\obj\Debug\Projeto final.vbproj.CoreCompileInputs.cache
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\obj\Debug\Projeto final.exe
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\obj\Debug\Projeto final.xml
+C:\Users\rmota\Downloads\Projeto final - Sistema Basket\Projeto final\obj\Debug\Projeto final.pdb
